@@ -10,7 +10,7 @@ import {
 // CAMBIA ESTA URL POR LA DE RENDER CUANDO TENGAS EL BACKEND SUBIDO
 // Para local usa: 'http://localhost:3000/api'
 // Para producción usa: 'https://tu-proyecto-backend.onrender.com/api'
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://oasisend.onrender.com/api';
 
 export const apiService = {
   // --- AUTENTICACIÓN ---
