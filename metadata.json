@@ -1,0 +1,5 @@
+{
+  "name": "Monitor Oasis de Orquídeas",
+  "description": "Un prototipo web para monitorear las condiciones ambientales de un invernadero de orquídeas. Muestra la temperatura y humedad en tiempo real, registra datos históricos y ayuda a gestionar los horarios de riego para garantizar condiciones óptimas de crecimiento.",
+  "requestFramePermissions": []
+}
